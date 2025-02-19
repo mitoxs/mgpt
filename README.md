@@ -25,6 +25,10 @@ nano mgpt.py
 
 Collez le script dans **mgpt.py**
 
+Ou
+
+wget https://github.com/mitoxs/mgpt/blob/main/mgpt.py
+
 ```bash
 nano ~/.bashrc
 export MISTRAL_API_KEY="VOTRE_API_KEY"
