@@ -29,6 +29,7 @@ Ou
 
 ```bash
 wget https://github.com/mitoxs/mgpt/blob/main/mgpt.py
+```
 
 ```bash
 nano ~/.bashrc
